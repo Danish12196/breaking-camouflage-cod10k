@@ -1,0 +1,6 @@
+{
+  "convnext": 3e-05,
+  "dinov2": 1e-05,
+  "vit": 1e-05,
+  "clip": 1e-05
+}
