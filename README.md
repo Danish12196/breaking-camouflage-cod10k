@@ -68,7 +68,7 @@ COD10K-v3 is not included here. It is released by the Media Computing Lab, Nanka
 - Fan, D.-P., Ji, G.-P., Sun, G., Cheng, M.-M., Shen, J. and Shao, L. (2020) 'Camouflaged object detection', *CVPR*.
 - Pre-trained weights come from [timm](https://github.com/huggingface/pytorch-image-models) and [OpenCLIP](https://github.com/mlfoundations/open_clip).# Breaking Camouflage: classifying camouflaged animals in COD10K
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/YOUR-REPO/blob/main/Week6_AppliedViT_5584978.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Danish12196/breaking-camouflage-cod10k/blob/main/Week6_AppliedViT_5584978.ipynb)
 
 Danish Ali (5584978) · MAAI901 Deep Learning for Visual Data · University of Wollongong in Dubai · Autumn 2026
 Assessment 2: Applied Vision Transformer Report
